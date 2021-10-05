@@ -10,6 +10,6 @@
  - 2. It involves starting from scratch including collecting data
 
 - 📫 Reach me through:
- - 1. email: durgesh.salunkhe@ls2n.fr
- - 2. Whatsapp: +33 758760829
- - 3. Website: www.salunkhedurgesh.com
+  1. email: durgesh.salunkhe@ls2n.fr
+  2. Whatsapp: +33 758760829
+  3. Website: www.salunkhedurgesh.com
