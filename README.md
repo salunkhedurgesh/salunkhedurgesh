@@ -1,0 +1,14 @@
+- 👋 Hi, I’m @salunkhedurgesh
+- 👀 I’m interested in 
+- - 1. Mechanism design
+- - 2. Optimisation algorithms
+- - 3. Neural networks and predictive coding
+- 🌱 I’m currently working on 
+- - 1. Classification of 6R serial robots based on cuspidality
+- 💞️ I’m looking to collaborate on
+- - 1. Creating a neural network on a very specific assignment 
+- - 2. It involves starting from scratch including collecting data
+- 📫 How to reach me 
+- - 1. email: durgesh.salunkhe@ls2n.fr
+- - 2. Whatsapp: +33 758760829
+- - 3. Website: salunkhedurgesh.com
