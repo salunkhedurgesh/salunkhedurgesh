@@ -2,7 +2,7 @@
 
 I DO NOT TRUST GITHUB WITH MY CODE STARTING MAY 2025:
 
-I am working to have my server with static IP; till then:  http://192.168.1.4:3000/durghy
+I am working to have my server with static IP via Gitea
 
 Welcome to my GitHub! I am a Postdoctoral Researcher at the [Learning Algorithms and Systems Laboratory (LASA)](https://www.epfl.ch/labs/lasa/) at [EPFL](https://www.epfl.ch/en/), working with Prof. Aude Billard.
 
